@@ -5,8 +5,6 @@ DEMO:
 Get started
 
 ```javascript
-
     npm install
     npm start
-
 ```

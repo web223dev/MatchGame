@@ -6,12 +6,12 @@
   "dependencies": {
     "envify": "^3.0.0",
     "flux": "^2.0.1",
-    "lodash": "^3.0.1",
+    "lodash": ">=4.17.19",
     "object-assign": "^2.0.0",
     "react": "^0.12.2",
     "reactify": "^0.15.2",
     "stylus": "^0.49.3",
-    "uglify-js": "~2.4.15",
+    "uglify-js": ">=2.6.0",
     "watchify": "^2.1.1"
   },
   "devDependencies": {

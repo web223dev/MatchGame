@@ -6,7 +6,7 @@
   "dependencies": {
     "envify": "^3.0.0",
     "flux": "^2.0.1",
-    "lodash": ">=4.17.19",
+    "lodash": ">=4.17.21",
     "object-assign": "^2.0.0",
     "react": "^0.12.2",
     "reactify": "^0.15.2",
